@@ -1,0 +1,23 @@
+body{
+    background:aqua;
+    
+}
+p{
+    font-family:verdana;
+    color:blue;
+    text-align:center;
+}
+.rojo{
+    color:red;
+}
+.fondo_silver{
+    background:silver;
+}
+div>p{
+    text-align:right;
+    font-size:20px;
+}
+
+
+
+
